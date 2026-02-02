@@ -1,14 +1,14 @@
 const messages = [
     "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Nejamava 😏??",
+    "Nejama Dha Soldriya😟?",
+    "Nalla Yochichu Sollu D🤨",
+    "Serious ah ketkuren😠",
+    "Aprm Na Poiruven D☹️",
+    "Sathiyama Poiduven D☹️",
+    "Hey Nejama naa Venama D😢",
+    "MO unaku un JU Venama D😭",
+    "Summa dha ketan Pondati Epotum Ne dha Enaku ❤️"
 ];
 
 let messageIndex = 0;
